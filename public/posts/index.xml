@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on lore of asiimov</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on lore of asiimov</description>
+    <generator>Hugo -- 0.127.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jun 2024 23:20:18 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>intro</title>
+      <link>http://localhost:1313/posts/intro/</link>
+      <pubDate>Tue, 11 Jun 2024 23:20:18 +0100</pubDate>
+      <guid>http://localhost:1313/posts/intro/</guid>
+      <description>the why Being from a rather small city there&amp;rsquo;s not many people aligned with tech and the only exposure I have is my workplace. It&amp;rsquo;s always nice to share thoughts, vibes and whatever so this is my playground.
+During my school years one the subject that I neglected was English, having many substitute teachers with no care and lack of interest I neglected it. I realised that it&amp;rsquo;s essential to articulate yourself well, it&amp;rsquo;s how you present yourself, impressions and more.</description>
+    </item>
+  </channel>
+</rss>
