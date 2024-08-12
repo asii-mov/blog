@@ -4,10 +4,10 @@ title: lore of asiimov
 theme: ["PaperMod"]
 
 params:
-  comments: true
+  comments: false
   homeInfoParams:
     Title: Who is asiimov?
-    Content: I'm a 21-year-old Security Consultant working at a Fortune 500 consultancy while pursuing my undergraduate degree at Northeastern University. I found my passion in cybersecurity through government programs and winning events such as Cyber Discovery Elite and Cyber Centurion. At 18, I started in DevSecOps and transitioned to Security Consulting in January 2024. I started this blog to improve my writing and to meet new people :)
+    Content: I'm a 21-year-old Security Consultant working at a Fortune 500 consultancy whilst pursuing my undergraduate degree at Northeastern University. I found my passion in cybersecurity through government programs and winning events such as Cyber Discovery Elite and Cyber Centurion. At 18 I begun my career, working in DevSecOps and transitioned to Security Consulting in January 2024. I started this blog to improve my writing and to meet new people :)
   socialIcons: # optional
     - name: "twitter"
       url: "https://x.com/asii_mov"

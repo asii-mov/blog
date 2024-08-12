@@ -9,11 +9,12 @@
     <lastBuildDate>Tue, 11 Jun 2024 23:20:18 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>intro</title>
+      <title>whoami</title>
       <link>http://localhost:1313/posts/intro/</link>
       <pubDate>Tue, 11 Jun 2024 23:20:18 +0100</pubDate>
       <guid>http://localhost:1313/posts/intro/</guid>
-      <description>whoami Hi I&amp;rsquo;m asiimov, 21 and living in the United Kingdom. My parents migrated from Hong Kong to England where I was shortly born. I always found it cool to learn how things worked but computers are what hooked me. Many years later I picked up computer science at GCSE (UK&amp;rsquo;s equivalent GED) and I loved it, my teacher was amazing and always went the extra mile. My friend spotted a poster for a &amp;lsquo;hacking competition&amp;rsquo; and that&amp;rsquo;s where it started.</description>
+      <description>Hi I&amp;rsquo;m asiimov, 21 and living in the United Kingdom. My parents migrated from Pakistan and Hong Kong to England where I was shortly born. I have always been curious on how everything works but computers are what fascinated me.
+Many years later I picked up computer science at GCSE (UK&amp;rsquo;s equivalent GED) and I loved it, my teacher was amazing and always went the extra mile. My friend spotted a poster for a &amp;lsquo;hacking competition&amp;rsquo; and that&amp;rsquo;s where I started.</description>
     </item>
   </channel>
 </rss>
