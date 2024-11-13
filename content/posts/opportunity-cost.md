@@ -12,7 +12,7 @@ relative = false
 +++
 
 You are applying for an opportunity.
-Would you still apply if there were:
+Would you still apply if there were any of these numbers of applicants:
 - 1,000 applicants
 - 10,000 applicants
 - 100,000 applicants
@@ -27,16 +27,28 @@ Why didn't they apply? "I'm not smart enough", "I didn't know", the list goes on
 
 ## Become lucky
 
-Luck is a chance of a good outcome but people fail to realise you have more control on your luck than you think. The odds can stay the same but the more you try, the more likely you are to succeed. If you prepare to fail, you will. Most people won't try, will try once or won't put much effort or thought into it. 
+Luck is a chance of a good outcome, but people fail to realize that you have more control on your luck than you think. The odds can stay the same, but the more you try, the more likely you are to succeed. If you prepare to fail, you will.
+
+Most people won't try, will try once, or won't put much effort or thought into it.
 
 A study by Wiseman found that lucky people were "skilled at creating and noticing chance opportunities, make lucky decisions by listening to their intuition, create self-fulfilling prophesies via positive expectations, and adopt a resilient attitude that transforms bad luck into good."
 
-If every application has a 1 in 10 chance, iteratively apply 100 times. If you get rejected, reach out for feedback and look what's missing. Ultimately the goal is to be better than the next person, what can you do to be better? People fear rejection instead of embracing it, if you fail a test you look to see where you went wrong and that applies to most things.
+If every application has a 1 in 10 chance, iteratively apply 100 times. If you get rejected, reach out for feedback and look what's missing. Ultimately the goal is to be better than the next person, what can you do to be better?
+
+People fear rejection instead of embracing it. If you fail a test, you look to see where you went wrong, and that applies to most things.
 
 ## Embrace rejection and fear
 
-The first event I attended was because I won a capture the flag, I was the top 500 out of 50,000 in a field where I had no prior work. This was my second attempt, I worked relentlessly to win the first year but I missed it by a small margin. I wanted to do better so I did, I kept the same focus, same goals. The second year I did it and the third year again. This lead to me working on other events and meeting some incredibly talented people.
+The first event I attended was because I won a capture the flag, I was the top 500 out of 50,000 in a field where I had no prior work. This was my second attempt; I worked relentlessly to win the first year but missed it by a small margin.
 
-It's since that moment I've learned to embrace rejection and soon fear. I was fairly introverted, I've known most of my friends since I was 11 years old. This changed on a client trip, the rain was heavy meaning the trains were delayed. I sat next to someone and we didn't say anything until I offered them some biscuits. From the biscuits we talked about the trains, work and values. It was my conversation starter until I grew more and more, I can speak to strangers. But what if I didn't, what was the cost? I wouldn't have met managers from Deloitte, senior security staff at MasterCard, some international students from China, and a stranger I met hundreds of miles away from home yet they lived five minutes from my home. I started small but now I'm able to strike up a conversation with anyone.
+I wanted to do better so I did. I kept the same focus, same goals. The second year I did it and the third year again. This led to me working on other events and meeting some incredibly talented people.
 
-The opportunity cost of nothing is exactly as it says, nothing. If you don't ask you don't get, if you don't try you don't know. Is the five minutes of rejection enough to keep you on the same path or will you try again?
+It's since that moment I've learned to embrace rejection and soon fear. Initially, I was fairly introverted and had known most of my friends since I was 11 years old.
+
+This changed on a client trip when the rain was heavy, meaning the trains were delayed. I sat next to someone, and we didn't say anything until I offered them some biscuits. From the biscuits, we talked about the trains, work, and values.
+
+It was my conversation starter until I grew more and more confident. Now I can speak to strangers. But what if I didn't? What was the cost? I wouldn't have met managers from Deloitte, senior security staff at MasterCard, international students from China, and a stranger I met hundreds of miles away from home yet they lived five minutes from my home.
+
+I started small, but now I'm able to strike up a conversation with anyone.
+
+The opportunity cost of nothing is exactly as it says, nothing. If you don't ask you don't get, if you don't try you don't know. Is the five minutes of rejection enough to keep you on the same path, or will you try again?
