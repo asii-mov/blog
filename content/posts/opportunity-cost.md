@@ -2,6 +2,7 @@
 title = 'The Opportunity Cost of Nothing'
 date = 2024-11-11T18:21:47Z
 draft = false
+image = "/opportunity.jpg"
 +++
 
 You are applying for an opportunity.
