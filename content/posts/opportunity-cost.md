@@ -1,8 +1,14 @@
 +++
-title = 'The Opportunity Cost of Nothing'
+title = "The Opportunity Cost of Nothing"
 date = 2024-11-11T18:21:47Z
 draft = false
+showThumbnail = false 
+[cover]
+hidden = true         
 image = "/opportunity.jpg"
+alt = "opportunity cost"
+caption = "opportunity cost"
+relative = false
 +++
 
 You are applying for an opportunity.
