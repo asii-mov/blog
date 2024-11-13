@@ -6,14 +6,40 @@
     <description>Recent content in Posts on lore of asiimov</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jun 2024 23:20:18 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 18:21:47 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>intro</title>
+      <title>The Opportunity Cost of Nothing</title>
+      <link>http://localhost:1313/posts/opportunity-cost/</link>
+      <pubDate>Mon, 11 Nov 2024 18:21:47 +0000</pubDate>
+      <guid>http://localhost:1313/posts/opportunity-cost/</guid>
+      <description>featured_image: /5e046e4c-9130-45e9-ab80-6e29795350c7.webp
+You are applying for an opportunity. Would you still apply if there were:
+1,000 applicants 10,000 applicants 100,000 applicants Some would say yes but often it&amp;rsquo;s no. I was speaking to my friends who went through the traditional route of school, university and are now looking for a job.
+I&amp;rsquo;ve applied and attended conferences, events, and so forth. But when I asked &amp;ldquo;how many did you apply for&amp;rdquo; they all collectively applied for zero and attended zero, the opportunity cost of nothing.</description>
+    </item>
+    <item>
+      <title>22 years</title>
+      <link>http://localhost:1313/posts/22/</link>
+      <pubDate>Mon, 04 Nov 2024 18:17:34 +0000</pubDate>
+      <guid>http://localhost:1313/posts/22/</guid>
+      <description>22 is a weird age. My life is self directed again, this time with a million options.
+It is as important as eighteen. Three years ago I left school to do a &amp;ldquo;degree apprenticeship&amp;rdquo;, working four days and studying for one. I didn&amp;rsquo;t expect to start a corporate job so soon but it felt and was right. I&amp;rsquo;ve now graduated, still working at a consultancy, but it&amp;rsquo;s time to think what&amp;rsquo;s next as my contract&amp;rsquo;s renewal is coming and what&amp;rsquo;s next and best for me.</description>
+    </item>
+    <item>
+      <title>Recurisve Thinking</title>
+      <link>http://localhost:1313/posts/llm-filters/</link>
+      <pubDate>Thu, 08 Aug 2024 19:25:32 +0100</pubDate>
+      <guid>http://localhost:1313/posts/llm-filters/</guid>
+      <description>Try harder Often in offensive security if you can&amp;rsquo;t find any vulnerabilities, just try harder. It&amp;rsquo;s like people who ask a question that can easily be Googled, they should try harder. This mentality is a necessity because hacking isn&amp;rsquo;t just about knowing, it&amp;rsquo;s learning and seeking for what you need.
+Recursion Think of physical security of a barrier at a subway/tube station. You tap your card, door opens, you move forward, it closes.</description>
+    </item>
+    <item>
+      <title>whoami</title>
       <link>http://localhost:1313/posts/intro/</link>
       <pubDate>Tue, 11 Jun 2024 23:20:18 +0100</pubDate>
       <guid>http://localhost:1313/posts/intro/</guid>
-      <description>whoami Hi I&amp;rsquo;m asiimov, 21 and living in the United Kingdom. My parents migrated from Pakistan and Hong Kong to England where I was shortly born. I have always been curious on how everything works but computers are what fascinated me.
+      <description>Hi I&amp;rsquo;m asiimov, 21 and living in the United Kingdom. My parents migrated from Pakistan and Hong Kong to England where I was shortly born. I have always been curious on how everything works but computers are what fascinated me.
 Many years later I picked up computer science at GCSE (UK&amp;rsquo;s equivalent GED) and I loved it, my teacher was amazing and always went the extra mile. My friend spotted a poster for a &amp;lsquo;hacking competition&amp;rsquo; and that&amp;rsquo;s where I started.</description>
     </item>
   </channel>

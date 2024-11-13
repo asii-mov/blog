@@ -15,7 +15,4 @@ After I was able to get my results to go university but it wasn't for me. I had 
 
 Currently I am currently exploring AI/ML and how we can best protect them from both an offensive and defensive perspective.
 
-# why I blog
-Being from a rather small city there's not many people aligned with tech and the only exposure I have is my workplace. It's always nice to share thoughts, improve my writing and more.
-
 Feel free to reach out on [x](https://x.com/asii_mov) 
