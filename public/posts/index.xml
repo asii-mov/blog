@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on lore of asiimov</title>
-    <link>https://asii.mov/posts/</link>
+    <link>https://blog.asii.mov/posts/</link>
     <description>Recent content in Posts on lore of asiimov</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Jun 2024 23:20:18 +0100</lastBuildDate>
-    <atom:link href="https://asii.mov/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.asii.mov/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>whoami</title>
-      <link>https://asii.mov/posts/intro/</link>
+      <link>https://blog.asii.mov/posts/intro/</link>
       <pubDate>Tue, 11 Jun 2024 23:20:18 +0100</pubDate>
-      <guid>https://asii.mov/posts/intro/</guid>
+      <guid>https://blog.asii.mov/posts/intro/</guid>
       <description>Hi I&amp;rsquo;m asiimov, 22 and living in the United Kingdom. My parents migrated from Pakistan and Hong Kong to England where I was shortly born. I have always been curious on how everything works but computers are what fascinated me.&#xA;Many years later I picked up computer science at GCSE (UK&amp;rsquo;s equivalent GED) and I loved it, my teacher was amazing and always went the extra mile. My friend spotted a poster for a &amp;lsquo;hacking competition&amp;rsquo; and that&amp;rsquo;s where I started.</description>
     </item>
   </channel>
