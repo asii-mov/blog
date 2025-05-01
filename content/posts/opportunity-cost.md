@@ -1,7 +1,7 @@
 +++
 title = "The Opportunity Cost of Nothing"
 date = 2024-11-11T18:21:47Z
-draft = false
+draft = true
 showThumbnail = false 
 [cover]
 hidden = true         

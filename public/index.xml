@@ -1,29 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>lore of asiimov</title>
-    <link>http://localhost:1313/</link>
+    <link>https://asii.mov/</link>
     <description>Recent content on lore of asiimov</description>
-    <generator>Hugo -- 0.127.0</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Nov 2024 18:21:47 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Opportunity Cost of Nothing</title>
-      <link>http://localhost:1313/posts/opportunity-cost/</link>
-      <pubDate>Mon, 11 Nov 2024 18:21:47 +0000</pubDate>
-      <guid>http://localhost:1313/posts/opportunity-cost/</guid>
-      <description>You are applying for an opportunity. Would you still apply if there were:
-1,000 applicants 10,000 applicants 100,000 applicants Some would say yes but often it&amp;rsquo;s no. I was speaking to my friends who went through the traditional route of school, university and are now looking for a job.
-I&amp;rsquo;ve applied and attended conferences, events, and so forth. But when I asked &amp;ldquo;how many did you apply for&amp;rdquo; they all collectively applied for zero and attended zero, the opportunity cost of nothing.</description>
-    </item>
+    <lastBuildDate>Tue, 11 Jun 2024 23:20:18 +0100</lastBuildDate>
+    <atom:link href="https://asii.mov/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>whoami</title>
-      <link>http://localhost:1313/posts/intro/</link>
+      <link>https://asii.mov/posts/intro/</link>
       <pubDate>Tue, 11 Jun 2024 23:20:18 +0100</pubDate>
-      <guid>http://localhost:1313/posts/intro/</guid>
-      <description>Hi I&amp;rsquo;m asiimov, 21 and living in the United Kingdom. My parents migrated from Pakistan and Hong Kong to England where I was shortly born. I have always been curious on how everything works but computers are what fascinated me.
-Many years later I picked up computer science at GCSE (UK&amp;rsquo;s equivalent GED) and I loved it, my teacher was amazing and always went the extra mile. My friend spotted a poster for a &amp;lsquo;hacking competition&amp;rsquo; and that&amp;rsquo;s where I started.</description>
+      <guid>https://asii.mov/posts/intro/</guid>
+      <description>Hi I&amp;rsquo;m asiimov, 22 and living in the United Kingdom. My parents migrated from Pakistan and Hong Kong to England where I was shortly born. I have always been curious on how everything works but computers are what fascinated me.&#xA;Many years later I picked up computer science at GCSE (UK&amp;rsquo;s equivalent GED) and I loved it, my teacher was amazing and always went the extra mile. My friend spotted a poster for a &amp;lsquo;hacking competition&amp;rsquo; and that&amp;rsquo;s where I started.</description>
     </item>
   </channel>
 </rss>

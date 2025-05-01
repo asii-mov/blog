@@ -4,7 +4,7 @@ date = 2024-06-11T23:20:18+01:00
 draft = false
 +++
 
-Hi I'm asiimov, 21 and living in the United Kingdom. My parents migrated from Pakistan and Hong Kong to England where I was shortly born. 
+Hi I'm asiimov, 22 and living in the United Kingdom. My parents migrated from Pakistan and Hong Kong to England where I was shortly born. 
 I have always been curious on how everything works but computers are what fascinated me. 
 
 Many years later I picked up computer science at GCSE (UK's equivalent GED) and I loved it, my teacher was amazing and always went the extra mile. My friend spotted a poster for a 'hacking competition' and that's where I started. 
